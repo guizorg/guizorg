@@ -53,7 +53,7 @@ Jogo simples no estilo clássico Snake.
 
 - 📧 **E-mail:** guilhermep98@outlook.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-pedroso-4b57a1184  
-- 📸 **Instagram (opcional):** @_pedroso98
+- 📸 **Instagram:** @_pedroso98
 
 ---
 
